@@ -1,4 +1,4 @@
-##**Social Media Sentiment Analysis for Depression Detection**
+## Social Media Sentiment Analysis for Depression Detection
 
 ## Overview
 This project aims to detect signs of depression in social media posts using natural language processing (NLP) techniques. We follow a step-by-step process to build an effective model for sentiment analysis.
