@@ -35,17 +35,17 @@ This project aims to detect signs of depression in social media posts using natu
 
 ## Usage
 1. **Data Preparation**:
-   - Ensure your dataset is preprocessed and in the required format.
+   - Dataset preprocessed and in the required format.
    - Split the data into training and testing sets.
 
 2. **Feature Extraction**:
-   - Use TF-IDF to transform text data into numerical features.
+   - Used TF-IDF to transform text data into numerical features.
 
 3. **Model Training**:
-   - Train Naive Bayes or Logistic Regression models on the TF-IDF features.
+   - Trained Naive Bayes or Logistic Regression models on the TF-IDF features.
 
 4. **Evaluation**:
-   - Evaluate the model using accuracy, precision, recall, and F1 score.
+   - Evaluated the model using accuracy, precision, recall, and F1 score.
 
 5. **Deployment**:
-   - The model was for predicting the sentiment of text.
+   - The model was used for predicting the sentiment of text.
